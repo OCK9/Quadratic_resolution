@@ -17,4 +17,4 @@ int main()
     Simplify(a,b,c);
 
     return 0;
-}
+} 
