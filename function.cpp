@@ -79,4 +79,10 @@ void Simplify(int a, int b, int c)
     }
 }
 
+void Prmdegree(int a, int b)
+{
+    float x = b/a;
+    cout << "Result: x = " << x << endl;
+}
+
 
